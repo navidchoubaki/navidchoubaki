@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @navidchoubaki
 - 👀 I’m interested in Python and robotic.
-- 🌱 I’m currently learning deep learning and artificial intelligence
-- 💞️ I’m looking to collaborate on Full stack web development and robotics projects
+- 🌱 I’m currently learning deep learning.
+- 💞️ I’m looking to collaborate on Full stack web development and robotics projects.
 - 📫 How to reach me:
 https://www.youtube.com/channel/UCmdyMZm4piuQhGMtDJIH6ZQ
 
