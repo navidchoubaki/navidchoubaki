@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning deep learning.
 - 💞️ I’m looking to collaborate on Full stack web development and robotics projects.
 - 📫 How to reach me:
-https://www.youtube.com/channel/UCmdyMZm4piuQhGMtDJIH6ZQ
+https://www.youtube.com/c/Naffchannel
 
 <!---
 navidchoubaki/navidchoubaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
